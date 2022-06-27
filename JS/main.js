@@ -261,7 +261,7 @@ function eliminarUnidad(e) {
             carritoHTML();
         } else {
             productoMenos.cantidad--;
-            productoMenos.subtotal = Number(productoMenos.precio.replace('.', "").replace('$', "")) * productoMenos.cantidad;
+            productoMenos.subtotal = Number(productoMenos.precio.replace(',', "").replace('$', "")) * productoMenos.cantidad;
             carritoHTML();
         }
         sincronizarStorage();
@@ -275,7 +275,7 @@ function sumarUnidad(e) {
             (el) => Number(el.id) === Number(e.target.dataset.id)
         );
         productoMas.cantidad++;
-        productoMas.subtotal = Number(productoMas.precio.replace('.', "").replace('$', "")) * productoMas.cantidad;
+        productoMas.subtotal = Number(productoMas.precio.replace(',', "").replace('$', "")) * productoMas.cantidad;
         sincronizarStorage();
         carritoHTML();
     }
