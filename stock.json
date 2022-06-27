@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "imagen": "./IMAGENES/Items/micros/i7.png",
+        "titulo": "Intel i7",
+        "descripcion": "Intel Core i7-9700K 8 núcleos y 4.9 GHz de frecuencia gráfica int.",
+        "precio": 9199,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 2,
+        "imagen": "./IMAGENES/Items/micros/i9.png",
+        "titulo": "Intel i9",
+        "descripcion": "Intel Core i9-10900F 10 núcleos y 5.2 GHz de frecuencia, gráfica int.",
+        "precio": 9607,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 3,
+        "imagen": "./IMAGENES/Items/micros/R7.png",
+        "titulo": "AMD Ryzen 7",
+        "descripcion": "AMD Ryzen 7 5700G 8 núcleos y 4.6 GHz con gráfica integrada",
+        "precio": 5816,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 4,
+        "imagen": "./IMAGENES/Items/micros/R9.png",
+        "titulo": "AMD Ryzen 9",
+        "descripcion": "AMD Ryzen 9 5900X 12 núcleos 4.8 GHz y 24 hilos con gráfica integrada",
+        "precio": 8076,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 5,
+        "imagen": "./IMAGENES/Items/placasv/RTX3080.png",
+        "titulo": "RTX 3080 MSI",
+        "descripcion": "MSI NVIDIA GeForce RTX3080 Gaming X Trio 10Gb GDDR6X",
+        "precio": 19191,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 6,
+        "imagen": "./IMAGENES/Items/placasv/RTX3090.png",
+        "titulo": "RTX 3090 TUF",
+        "descripcion": "ASUS NVIDIA GeForce RTX3090 TUF GAMING 24GB GDDR6X",
+        "precio": 68838,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 7,
+        "imagen": "./IMAGENES/Items/placasv/RX6800.png",
+        "titulo": "RX 6800",
+        "descripcion": "Sapphire Radeon RX 6800 NITRO+ 16Gb GDDR6",
+        "precio": 32989,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 8,
+        "imagen": "./IMAGENES/Items/placasv/RX6900.png",
+        "titulo": "RX 6900",
+        "descripcion": "MSI Radeon RX 6900 XT GAMING Z TRIO 16Gb GDDR6",
+        "precio": 42503,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 9,
+        "imagen": "./IMAGENES/Items/mothers/Z690.png",
+        "titulo": "Asus Z690",
+        "descripcion": "Asus Rog Maximus Z690 Hero - Intel® Z690 ATX motherboard with 20+1 power stages, DDR5, Five M.2, USB 3.2 Gen 2x2 front-panel connector, Dual Thunderbolt™, PCIe® 5.0, Onboard WiFi 6E & Aura Sync RGB",
+        "precio": 13897,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 10,
+        "imagen": "./IMAGENES/Items/mothers/X570S.png",
+        "titulo": "Aorus X570S",
+        "descripcion": "GIGABYTE X570S AORUS ELITE - AMD Ryzen™, Twin 12+2 Phases Digital VRM Solution with 60A DrMOS, DDR4, SuperSpeed USB 3.2 Gen 2x2 TYPE-C® delivers up to 20Gb/s transfer speeds",
+        "precio": 6173,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 11,
+        "imagen": "./IMAGENES/Items/mothers/Z690PLUS.png",
+        "titulo": "Z690Plus TUF",
+        "descripcion": "Asus Z690Plus TUF Gaming - Intel® Z690 (LGA 1700) ATX gaming motherboard, PCIe® 5.0, DDR4, four M.2 slots, WiFi 6 and Intel 2.5 Gb Ethernet, Thunderbolt™ 4 support and Aura Sync RGB",
+        "precio": 6955,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 12,
+        "imagen": "./IMAGENES/Items/mothers/B550.png",
+        "titulo": "Gigabyte B550",
+        "descripcion": "Gigabyte B550 Aorus Pro - Supports AMD Ryzen™, DDR4, Ultra Durable™ PCIe 4.0, AMP-UP Audio, USB 3.2 Gen2 Type-C™ & HDMI Support, RGB FUSION 2.0 Supports Addressable LED & RGB LED Strips",
+        "precio": 5622,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 13,
+        "imagen": "./IMAGENES/Items/ram/ballistix16gb.png",
+        "titulo": "16Gb-3200Mhz",
+        "descripcion": "Memoria Ram DDR4 - Ballistix - 16Gb 3200 Mhz Ballistix Rgb Negro",
+        "precio": 2627,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 14,
+        "imagen": "./IMAGENES/Items/ram/renegade16gb.png",
+        "titulo": "16Gb-3600Mhz",
+        "descripcion": "Memoria Ram DDR4 - Kingston Renegade - 16Gb 3600 Mhz Renegade Kingston Fury Rgb",
+        "precio": 2599,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 15,
+        "imagen": "./IMAGENES/Items/ram/fury8gb.png",
+        "titulo": "8Gb-5600Mhz",
+        "descripcion": "Memoria Ram DDR5 - Kingston Fury - 8Gb 5600 Mhz Beast Kingston Fury",
+        "precio": 3740,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 16,
+        "imagen": "./IMAGENES/Items/ram/fury16gb.png",
+        "titulo": "16Gb-5600Mhz",
+        "descripcion": "Memoria Ram DDR5 - Kingston Fury - 16Gb 5600 Mhz Beast Kingston Fury",
+        "precio": 3740,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 17,
+        "imagen": "./IMAGENES/Items/discos/Giga1tb.png",
+        "titulo": "SSD Gigabyte 1TB",
+        "descripcion": "Disco Solido Ssd M2 Pci-E 1Tb Gigabyte GM21TB",
+        "precio": 887,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 18,
+        "imagen": "./IMAGENES/Items/discos/WD1tb.png",
+        "titulo": "SSD Western Digital 1TB",
+        "descripcion": "Disco Solido Ssd M2 Pci-E 1Tb WD SN350 Green",
+        "precio": 1899,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 19,
+        "imagen": "./IMAGENES/Items/discos/Giga512.png",
+        "titulo": "SSD Gigabyte 512GB",
+        "descripcion": "Disco Solido Ssd M2 Pci-E 512Gb Gigabyte",
+        "precio": 599,
+        "cantidad": 1,
+        "subtotal": 0
+    },
+    {
+        "id": 20,
+        "imagen": "./IMAGENES/Items/discos/Kingston500.png",
+        "titulo": "SSD Kingsto 500GB",
+        "descripcion": "Disco Solido Ssd M2 Pci-E Nvme 500Gb Kingston NV1",
+        "precio": 887,
+        "cantidad": 1,
+        "subtotal": 0
+    }
+]
