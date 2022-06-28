@@ -6,7 +6,8 @@
         "descripcion": "Intel Core i7-9700K 8 núcleos y 4.9 GHz de frecuencia gráfica int.",
         "precio": 9199,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "microprocesador"
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "descripcion": "Intel Core i9-10900F 10 núcleos y 5.2 GHz de frecuencia, gráfica int.",
         "precio": 9607,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "microprocesador"
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "descripcion": "AMD Ryzen 7 5700G 8 núcleos y 4.6 GHz con gráfica integrada",
         "precio": 5816,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "microprocesador"
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "descripcion": "AMD Ryzen 9 5900X 12 núcleos 4.8 GHz y 24 hilos con gráfica integrada",
         "precio": 8076,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "placavideo"
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "descripcion": "MSI NVIDIA GeForce RTX3080 Gaming X Trio 10Gb GDDR6X",
         "precio": 19191,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "placavideo"
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "descripcion": "ASUS NVIDIA GeForce RTX3090 TUF GAMING 24GB GDDR6X",
         "precio": 68838,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "placavideo"
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "descripcion": "Sapphire Radeon RX 6800 NITRO+ 16Gb GDDR6",
         "precio": 32989,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "placavideo"
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "descripcion": "MSI Radeon RX 6900 XT GAMING Z TRIO 16Gb GDDR6",
         "precio": 42503,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "motherboards"
     },
     {
         "id": 9,
@@ -78,7 +86,8 @@
         "descripcion": "Asus Rog Maximus Z690 Hero - Intel® Z690 ATX motherboard with 20+1 power stages, DDR5, Five M.2, USB 3.2 Gen 2x2 front-panel connector, Dual Thunderbolt™, PCIe® 5.0, Onboard WiFi 6E & Aura Sync RGB",
         "precio": 13897,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "motherboards"
     },
     {
         "id": 10,
@@ -87,7 +96,8 @@
         "descripcion": "GIGABYTE X570S AORUS ELITE - AMD Ryzen™, Twin 12+2 Phases Digital VRM Solution with 60A DrMOS, DDR4, SuperSpeed USB 3.2 Gen 2x2 TYPE-C® delivers up to 20Gb/s transfer speeds",
         "precio": 6173,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "motherboards"
     },
     {
         "id": 11,
@@ -96,7 +106,8 @@
         "descripcion": "Asus Z690Plus TUF Gaming - Intel® Z690 (LGA 1700) ATX gaming motherboard, PCIe® 5.0, DDR4, four M.2 slots, WiFi 6 and Intel 2.5 Gb Ethernet, Thunderbolt™ 4 support and Aura Sync RGB",
         "precio": 6955,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "motherboards"
     },
     {
         "id": 12,
@@ -105,7 +116,8 @@
         "descripcion": "Gigabyte B550 Aorus Pro - Supports AMD Ryzen™, DDR4, Ultra Durable™ PCIe 4.0, AMP-UP Audio, USB 3.2 Gen2 Type-C™ & HDMI Support, RGB FUSION 2.0 Supports Addressable LED & RGB LED Strips",
         "precio": 5622,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "memoriasram"
     },
     {
         "id": 13,
@@ -114,7 +126,8 @@
         "descripcion": "Memoria Ram DDR4 - Ballistix - 16Gb 3200 Mhz Ballistix Rgb Negro",
         "precio": 2627,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "memoriasram"
     },
     {
         "id": 14,
@@ -123,7 +136,8 @@
         "descripcion": "Memoria Ram DDR4 - Kingston Renegade - 16Gb 3600 Mhz Renegade Kingston Fury Rgb",
         "precio": 2599,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "memoriasram"
     },
     {
         "id": 15,
@@ -132,7 +146,8 @@
         "descripcion": "Memoria Ram DDR5 - Kingston Fury - 8Gb 5600 Mhz Beast Kingston Fury",
         "precio": 3740,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "memoriasram"
     },
     {
         "id": 16,
@@ -141,7 +156,8 @@
         "descripcion": "Memoria Ram DDR5 - Kingston Fury - 16Gb 5600 Mhz Beast Kingston Fury",
         "precio": 3740,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "discosssd"
     },
     {
         "id": 17,
@@ -150,7 +166,8 @@
         "descripcion": "Disco Solido Ssd M2 Pci-E 1Tb Gigabyte GM21TB",
         "precio": 887,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "discosssd"
     },
     {
         "id": 18,
@@ -159,7 +176,8 @@
         "descripcion": "Disco Solido Ssd M2 Pci-E 1Tb WD SN350 Green",
         "precio": 1899,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "discosssd"
     },
     {
         "id": 19,
@@ -177,6 +195,7 @@
         "descripcion": "Disco Solido Ssd M2 Pci-E Nvme 500Gb Kingston NV1",
         "precio": 887,
         "cantidad": 1,
-        "subtotal": 0
+        "subtotal": 0,
+        "tipo": "discosssd"
     }
 ]

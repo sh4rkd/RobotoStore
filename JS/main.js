@@ -41,11 +41,16 @@ const productosJSON = async () => {
     const data = await res.json();
     try {
         data.forEach(element => listaProductos.push(new Producto(element.id, element.imagen, element.titulo, element.descripcion, element.precio, element.cantidad, element.subtotal)));
-        microprocesador.push(listaProductos[0], listaProductos[1], listaProductos[2], listaProductos[3]);
-        placaVideo.push(listaProductos[4], listaProductos[5], listaProductos[6], listaProductos[7]);
-        motherboards.push(listaProductos[8], listaProductos[9], listaProductos[10], listaProductos[11]);
-        memoriasRam.push(listaProductos[12], listaProductos[13], listaProductos[14], listaProductos[15]);
-        discosSSD.push(listaProductos[16], listaProductos[17], listaProductos[18], listaProductos[19]);
+        // microprocesador push map filter data.tipo = "microprocesador"
+        data.filter(element => element.tipo === "microprocesador").forEach(element => microprocesador.push(element));
+        // placaVideo push map filter data.tipo = "placaVideo"
+        data.filter(element => element.tipo === "placavideo").forEach(element => placaVideo.push(element));
+        // motherboards push map filter data.tipo = "motherboards"
+        data.filter(element => element.tipo === "motherboards").forEach(element => motherboards.push(element));
+        // memoriasRam push map filter data.tipo = "memoriasRam"
+        data.filter(element => element.tipo === "memoriasram").forEach(element => memoriasRam.push(element));
+        // discosSSD push map filter data.tipo = "discosSSD"
+        data.filter(element => element.tipo === "discosssd").forEach(element => discosSSD.push(element));
         let micros = agregarHtml(microprocesador);
         let placasVideo = agregarHtml(placaVideo);
         let mothers = agregarHtml(motherboards);
