@@ -166,7 +166,7 @@ function numeroPedido(min, max) {
 }
 
 function mandarMail() {
-    emailjs.send("service_akw3h2a", "template_jra2zyn", {
+    emailjs.send("service_515pt6i", "template_g4c6bnc", {
         from_name: "Roboto Store",
         to_name: document.querySelector("#nombre").value,
         email: document.querySelector("#email").value,
